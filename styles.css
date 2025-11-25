@@ -29,3 +29,8 @@ img{
 .categoria-videos{
     display: flex;
 }
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
