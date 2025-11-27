@@ -11,7 +11,7 @@ header{
     font-size: 32px;
 }
 
-section{
+.chamada{
     background: purple;
     padding-bottom: 20px;
     padding-top: 20px;
